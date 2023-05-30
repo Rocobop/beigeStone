@@ -2,7 +2,7 @@
  {
     "author" : "Ravski", 
     "name" : "beigeStone", 
-    "keyWords" : ["beige","ravski"],
+    "keyWords" : "beige",
     "version" : "1.0.0",
     "dofusVersion" : "2.67", 
     "description" : "Theme Beige", 
